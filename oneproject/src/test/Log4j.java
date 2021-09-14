@@ -6,7 +6,7 @@ import java.time.LocalTime;
 import java.time.Month;
 import java.util.logging.Logger;
 
-import org.apache.log4j.PropertyConfigurator;
+
 
 public class Log4j {
 
