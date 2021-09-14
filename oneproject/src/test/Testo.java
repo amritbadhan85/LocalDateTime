@@ -11,8 +11,9 @@ import java.util.logging.Logger;
 public class Testo {
 
 	public static void main(String[] args) {
-		
+		System.out.println("begin");
 		System.out.println("start machine");
+		
 		System.out.println(LocalDateTime.now());
 		
 		LocalDateTime event = LocalDateTime.of(2050, 6, 5, 14, 30, 0);
