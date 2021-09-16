@@ -16,7 +16,7 @@ public class Testo {
 		
 		System.out.println(LocalDateTime.now());
 		
-		LocalDateTime event = LocalDateTime.of(2050, 6, 5, 14, 30, 0);
+		LocalDateTime event = LocalDateTime.of(2050, 6, 5, 14, 30, 80);
 		
 		
 		
