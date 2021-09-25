@@ -14,6 +14,8 @@ public class Testo {
 
 	public static void main(String[] args) {
 		
+		// this is main method
+		
 		System.out.println("start machine 1");
 		
 		System.out.println(LocalDateTime.now());
