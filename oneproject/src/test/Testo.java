@@ -16,7 +16,7 @@ public class Testo {
 		
 		// this is main method
 		
-		System.out.println("start machine 110");
+		System.out.println("start machine 1000");
 		
 		System.out.println(LocalDateTime.now());
 		
